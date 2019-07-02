@@ -8,5 +8,7 @@ npm install -S afeiship/next-nake-rename --registry=https://registry.npm.taobao.
 
 ## usage
 ```js
-//DOCS here!
+import nxNakeRename from 'next-nake-rename';
+
+nx.nakeRename(['test/*'], 'dist');
 ```

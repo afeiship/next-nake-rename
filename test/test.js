@@ -1,7 +1,6 @@
 var nx = require('next-js-core2');
 require('../src/next-nake-rename');
 
-
-test('nx.nakeRename', function () {
+test('nx.nakeRename', function() {
+  nx.nakeRename(['test/*'], 'dist');
 });
-
