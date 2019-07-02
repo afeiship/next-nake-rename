@@ -1,0 +1,28 @@
+{
+  "name": "next-nake-rename",
+  "version": "0.0.1",
+  "description": "Rename for nake",
+  "main": "dist/next-nake-rename.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-nake-rename",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
